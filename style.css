@@ -11,5 +11,16 @@ body {
   font-size: 40px;
 }
 
+#bio {
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.highlight {
+  font-style: italic;
+  color: green;
+}
+
+
 
 
