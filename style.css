@@ -15,6 +15,14 @@ body {
 
 
 }
+.bio {
+  margin-bottom: 40px;
+}
+ 
+#my-table {
+  margin-bottom: 40px;
+}
+
 
 #page-title { font-size: 48px; color: navy; }
 #my-name {
