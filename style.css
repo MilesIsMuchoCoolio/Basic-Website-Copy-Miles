@@ -2,6 +2,9 @@ body {
   color: #ff8c00;
   background-color: #885b01;
   font-family: Georgia, serif;
+ width: 700px;
+  margin: 0 auto;
+  padding: 20px;
 }
 
 .subtitle { color: red; 
