@@ -15,13 +15,15 @@ body {
 
 
 }
-.bio {
-  margin-bottom: 40px;
+#photo-caption {
+  width: 400px;
+  margin: 0 auto;
 }
- 
-#my-table {
-  margin-bottom: 40px;
+
+#page-heading {
+  text-align: center;
 }
+
 
 
 #page-title { font-size: 48px; color: navy; }
